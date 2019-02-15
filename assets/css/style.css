@@ -1,0 +1,15 @@
+h2{
+    color:#7D3C98;
+    font-family:impact;
+}
+p, label, li{
+	color:#17202A;
+	font-family: times new roman;
+	line-height:24px;
+}
+
+a{
+	color:#F7360C;
+    font-family:times; 
+	text-decoration: none;
+}
